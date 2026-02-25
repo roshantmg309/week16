@@ -1,6 +1,6 @@
  
 public class CensusSystem {
-//q7
+//scenario
     static class Student {
         private String name;
         private int age;

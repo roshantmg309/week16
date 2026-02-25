@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 
 public class question_7
-{
+{//q7
     public static boolean isValidPhone(String phone) {
         return phone.matches("^(98|97)[0-9]{8}$");
     }
